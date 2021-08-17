@@ -1,0 +1,25 @@
+h1 {
+  margin: 20px 0 30px 0;
+  font-size: 22.5px;
+  text-align: center;
+  text-decoration: underline;
+}
+input,
+textarea {
+  padding: 10px !important;
+  margin-bottom: 10px;
+}
+textarea {
+  height: 250px;
+}
+button {
+  width: fit-content;
+  font-size: 11px;
+  padding: 10px !important;
+  letter-spacing: 0.5px;
+}
+.error {
+  padding-bottom: 5px;
+  color: red;
+  font-weight: 700;
+}
