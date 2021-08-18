@@ -1,4 +1,4 @@
-![Version 1.0.1](https://img.shields.io/badge/version-v1.0.1-blue)
+![Version 1.0.2](https://img.shields.io/badge/version-v1.0.2-blue)
 
 # VS FLOW
 

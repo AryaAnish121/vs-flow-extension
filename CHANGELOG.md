@@ -11,3 +11,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.0.1]
 
 - Bug fix
+
+## [1.0.2]
+
+- Added categories
