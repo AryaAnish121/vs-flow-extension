@@ -3,13 +3,14 @@
   "displayName": "VS Flow",
   "description": "This is a vs code extension which allows you to ask and give answers to questions which random people ask. Thank you for downloading this extension",
   "publisher": "AryaAnish",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.59.0"
   },
   "keywords": [
     "snippets",
+    "snippet",
     "questions",
     "answers",
     "education"
